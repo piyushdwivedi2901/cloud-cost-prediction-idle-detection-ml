@@ -79,7 +79,11 @@ The dataset represents a **monthly billing cycle (up to 720 uptime hours)**.
 
 #### 📊 Performance
 
-- **Accuracy:** > 97%  
+- **Accuracy:** > 97%
+
+#### 📈 Output
+
+![Graph](graph.png)
 
 ---
 
