@@ -158,8 +158,3 @@ The analytical core of the system is complete.
 - Piyush Dwivedi(23FE10CSE00691)
 - Navnish Agarwal(23FE10CSE00714) 
 
----
-
-## 📜 License
-
-Developed for academic purposes under PBL-4.
